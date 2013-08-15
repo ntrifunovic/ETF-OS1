@@ -1,0 +1,1 @@
+cpp -Ie:\bc31\include;e:\bc31\OS\inc;%BC31%\OS\jt\inc %*

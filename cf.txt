@@ -1,0 +1,1 @@
+ -mh -etest.exe -r- -Od -V -Vb -Ic:\BC31\include;c:\BC31\OS\inc;c:\BC31\OS\jt\inc;c:\BC31\OS;c:\BC31\OS\primeri -Lc:\BC31\lib;c:\BC31\OS\lib 
