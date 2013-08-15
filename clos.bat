@@ -1,0 +1,1 @@
+bcc +cf.txt %* lib\APPLICAT.LIB 

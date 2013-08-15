@@ -1,0 +1,2 @@
+call closa
+test
